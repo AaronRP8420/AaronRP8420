@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+- name: VPNC GitHub action
+  uses: MasterOdin/action-vpnc@0.0.1
+
